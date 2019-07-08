@@ -1,7 +1,8 @@
 # Slack Webhooks Github Crawler
 This repo contains a script that search on Github.com for Slack Webhooks token publicly exposed
 
-These tokens are formatted like: `https://hooks.slack.com/services/TXXXXXXXX/BXXXXXXXX/xxxxxxxxxxxxxxxxxxxxxxxx` so they are easy to search  on Github.
+Slack webhooks are easy to search on Github since they have all the same format:
+`https://hooks.slack.com/services/TXXXXXXXX/BXXXXXXXX/xxxxxxxxxxxxxxxxxxxxxxxx`
 
 ---
 
@@ -24,9 +25,9 @@ Since there are a lot of results the scirpt search a  specific programming langu
 ### Installation Instructions
     1) install [nodejs](https://nodejs.org/en/) 
     2) Open your terminal and cd in this folder
-    3) Type ``` npm install ```
-    4) Edit ``` index.js ``` and insert your Github username and password (are needed in order to perform the search)
-    5) Type ```node index.js```
+    3) Type `npm install`
+    4) Edit `index.js` and insert your Github username and password (needed for perform the search)
+    5) Type `node index.js`
 
 Done! 🎉 
 
