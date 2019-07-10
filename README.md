@@ -31,7 +31,7 @@ Since there are a lot of results the scirpt search a  specific programming langu
 
 ---
 
-### Installation Instructions
+## Installation Instructions
  1) install [nodejs](https://nodejs.org/en/) 
  2) Open your terminal and cd in the repo folder
  3) Type `npm install`
