@@ -6,11 +6,19 @@ Slack webhooks are easy to search on Github since they have all the same format:
 
 ---
 
-## The Social Experiment
-Thanks to this script I've found more than 6500 Slack Webhooks on Github.com and I've sent a message on their Slack's #general channels warning that they have an exposed token on Github.
+## The Social Expeoriment
+I've run this script on a cloud function every hour for 6 months filtering by specific programming language (C#, Swift, Ruby, etc...) and idexing modes (Best match, Recently indexed, Least recently indexed) and in total I've collected more than **6500 Slack Webhooks** on Github.com
+Friday 5 July 2019 I've sent a message to every Slack's webhook #general channels warning that they have an exposed token on Github.
+The message was the following:
+<a href="https://www.buymeacoffee.com/gruppio" target="_blank"><img src="https://raw.githubusercontent.com/Gruppio/SlackWebhooksGithubCrawler/images/slackmessage.png" alt="Buy Me A Coffee" width="300" ></a>
+
 
 ### Results
+In total I've sent ~6500 Slack messages and the youtube video that was explaining the experiment had ~3700 views, so we can assume that roughly 57% of webhooks are still valid.
+\* Supposing that only one person had watched this video per channel
 Most of the people appreciated that I've sent a message to them and warned them about their security problems.
+You can read all the comments under the youtube video that I've sent to them:
+https://www.youtube.com/watch?v=ybFTGeJICho&t=2s
 
 ---
 
@@ -33,6 +41,6 @@ Done! 🎉
 
 ### If you like this project please:
 
-<a href="https://www.buymeacoffee.com/gruppio" target="_blank"><img src="https://raw.githubusercontent.com/Gruppio/Sonoff-Homekit/images/images/buymeacoffee.png" alt="Buy Me A Coffee" width="300" ></a>
+<a href="https://www.buymeacoffee.com/gruppio" target="_blank"><img src="https://raw.githubusercontent.com/Gruppio/SlackWebhooksGithubCrawler/images/buymeacoffee.png" alt="Buy Me A Coffee" width="300" ></a>
 
 Gruppio 2019
