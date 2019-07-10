@@ -7,18 +7,18 @@ Slack webhooks are easy to search on Github since they have all the same format:
 ---
 
 ## The Social Expeoriment
-I've run this script on a cloud function every hour for 6 months and in total I've collected more than **6500 Slack Webhooks**.
-Afterward I've sent a message to all the #general channels warning that they have an exposed token on Github.
-The message received by the people was the following:
+I've run this script on a cloud function every hour for 6 months and in total I've collected more than **6500 Slack Webhooks**.  
+Afterward I've sent a message to all the #general channels warning that they have an exposed token on Github.  
+The message received by the people was the following:  
 <img src="https://raw.githubusercontent.com/Gruppio/SlackWebhooksGithubCrawler/images/slackmessage.png" alt="Slack Message" width="250" >
 
 
 ### Results
-In total I've sent ~6500 Slack messages and the youtube video that was explaining the experiment had ~3700 views, so we can assume that roughly 57% of webhooks are still valid.
+In total I've sent ~6500 Slack messages and the youtube video that was explaining the experiment had ~3700 views, so we can assume that roughly 57% of webhooks are still valid.  
 \* Supposing that only one person had watched this video per channel
 
 ### Comments
-Most of the people appreciated that I've sent a message to them and warned them about their security problems.
+Most of the people appreciated that I've sent a message to them and warned them about their security problems.  
 You can read all the comments under the youtube video that I've sent to them:
 https://www.youtube.com/watch?v=ybFTGeJICho&t=2s
 
@@ -26,7 +26,7 @@ https://www.youtube.com/watch?v=ybFTGeJICho&t=2s
 
 ## Technical Info
 
-The script instruments a chromium instance using [puppeteer](https://developers.google.com/web/tools/puppeteer/) and use it to search github the prefix of the slack token.
+The script instruments a chromium instance using [puppeteer](https://developers.google.com/web/tools/puppeteer/) and use it to search github the prefix of the slack token.  
 Since there are a lot of results the scirpt search a  specific programming language and a "mode" that is the sorting option.
 
 ---
