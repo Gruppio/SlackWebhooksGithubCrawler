@@ -19,7 +19,7 @@ In total I've sent ~6500 Slack messages and the youtube video that was explainin
 
 ### Comments
 Most of the people appreciated that I've sent a message to them and warned them about their security problems.  
-You can read all the comments under the youtube video that I've sent to them:
+You can read all the comments under the youtube video that I've sent to them:  
 https://www.youtube.com/watch?v=ybFTGeJICho&t=2s
 
 ---
