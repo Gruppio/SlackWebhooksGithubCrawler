@@ -10,7 +10,7 @@ Slack webhooks are easy to search on Github since they have all the same format:
 I've run this script on a cloud function every hour for 6 months and in total I've collected more than **6500 Slack Webhooks**.  
 Afterward I've sent a message to all the #general channels warning that they have an exposed token on Github.  
 The message received by the people was the following:  
-<img src="https://raw.githubusercontent.com/Gruppio/SlackWebhooksGithubCrawler/images/slackmessage.png" alt="Slack Message" width="250" >
+<img src="https://raw.githubusercontent.com/Gruppio/SlackWebhooksGithubCrawler/images/slackmessage.png" alt="Slack Message" width="350" >
 
 
 ### Results
