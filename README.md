@@ -27,7 +27,7 @@ https://www.youtube.com/watch?v=ybFTGeJICho&t=2s
 ## Technical Info
 
 The script instruments a chromium instance using [puppeteer](https://developers.google.com/web/tools/puppeteer/) and use it to search github the prefix of the slack token.  
-Since there are a lot of results the scirpt filter for a specific programming language and for a specific sorting option each time it run.
+Since the big number of results the script filter for a specific programming language and for a specific sorting option every time it run.
 
 ---
 
