@@ -14,7 +14,7 @@ The message received by the people was the following:
 
 
 ### Results
-In total I've sent ~6500 Slack messages and the youtube video that was explaining the experiment had ~3700 views, so we can assume that **roughly 57% of webhooks are still valid.**  
+In total I've sent ~6500 Slack messages and the youtube video that was explaining the experiment had ~3700 views, so we can assume that **roughly 57% of webhooks was still valid.**  
 \* *Supposing that only one person had watched this video per channel*
 
 ### Comments
@@ -27,7 +27,7 @@ https://www.youtube.com/watch?v=ybFTGeJICho&t=2s
 ## Technical Info
 
 The script instruments a chromium instance using [puppeteer](https://developers.google.com/web/tools/puppeteer/) and use it to search github the prefix of the slack token.  
-Since there are a lot of results the scirpt search a  specific programming language and a "mode" that is the sorting option.
+Since there are a lot of results the scirpt filter for a specific programming language and for a specific sorting option each time it run.
 
 ---
 
