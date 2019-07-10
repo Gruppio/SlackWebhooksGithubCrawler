@@ -14,8 +14,8 @@ The message received by the people was the following:
 
 
 ### Results
-In total I've sent ~6500 Slack messages and the youtube video that was explaining the experiment had ~3700 views, so we can assume that roughly 57% of webhooks are still valid.  
-\* Supposing that only one person had watched this video per channel
+In total I've sent ~6500 Slack messages and the youtube video that was explaining the experiment had ~3700 views, so we can assume that **roughly 57% of webhooks are still valid.**  
+\* *Supposing that only one person had watched this video per channel*
 
 ### Comments
 Most of the people appreciated that I've sent a message to them and warned them about their security problems.  
