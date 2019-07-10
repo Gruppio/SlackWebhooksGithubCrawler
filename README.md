@@ -6,7 +6,7 @@ Slack webhooks are easy to search on Github since they have all the same format:
 
 ---
 
-## The Social Expeoriment
+## The Social Experiment
 I've run this script on a cloud function every hour for 6 months and in total I've collected more than **6500 Slack Webhooks**.  
 Afterward I've sent a message to all the #general channels warning that they have an exposed token on Github.  
 The message received by the people was the following:  
