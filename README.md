@@ -18,7 +18,6 @@ In total I've sent ~6500 Slack messages and the youtube video that was explainin
 \* *Supposing that only one person had watched this video per channel*
 
 ### Video Message
-This is the video message that people saw
 [![Youtube Video](https://img.youtube.com/vi/ybFTGeJICho/0.jpg)](https://www.youtube.com/watch?v=ybFTGeJICho)
 
 ### Comments
