@@ -7,7 +7,7 @@
   "scripts": {},
   "dependencies": {
     "delay": "^4.1.0",
-    "lodash": "^4.17.11",
+    "lodash": "^4.17.19",
     "puppeteer": "^1.12.2"
   },
   "devDependencies": {
